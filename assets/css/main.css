@@ -2646,7 +2646,8 @@ input, select, textarea {
 			}
 
 			.image.main img {
-				width: 100%;
+				
+				width: 30%;
 			}
 
 		@media screen and (max-width: 736px) {
@@ -2959,6 +2960,7 @@ input, select, textarea {
 			header.major > p {
 				margin-top: 0;
 				text-align: center;
+				font-style:normal;
 			}
 
 			header.major > .date {
